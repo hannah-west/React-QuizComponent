@@ -14,4 +14,4 @@ import React, { Component } from 'react';
     }
  }
 
- export default Quiz
+export default Quiz
