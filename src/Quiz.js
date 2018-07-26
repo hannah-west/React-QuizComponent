@@ -10,7 +10,7 @@ import QuizQuestion from './QuizQuestion'
     }
    render() {
      return(
-     <div><QuizQuesiton {prop.quiz_question{quizData.quiz_questions[quiz_position - 1]}}/></div>
+     <div><QuizQuesiton quiz_question={quizData.quiz_questions[quiz_position - 1]}/></div>
       )
     }
  }
