@@ -11,8 +11,6 @@ import QuizEnd from './QuizEnd'
     }
    render() {
 
-    const isQuizEnd 
-
      return(
      <div>
        <QuizEnd />
