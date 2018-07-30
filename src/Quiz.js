@@ -10,6 +10,9 @@ import QuizEnd from './QuizEnd'
       this.state = {quiz_position: 1}
     }
    render() {
+
+    const isQuizEnd 
+
      return(
      <div>
        <QuizEnd />
