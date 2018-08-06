@@ -13,6 +13,15 @@ import QuizEnd from './QuizEnd'
 
 const  isQuizEnd  = this.state.quiz_position - 1 == quizData.quiz_questions.length;
 
+if ( isQuizEnd == true)
+{
+ 
+}
+else 
+{
+  
+}
+
      return(
      <div>
        <QuizEnd />
